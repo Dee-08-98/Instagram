@@ -1,0 +1,5 @@
+API_KEY = 'dietvzczq',
+    API_SECRET_KEY = 172863152179568,
+    CLOUD_NAME = "5R-B3PV2cHXY-DcTAzsR",
+
+    module.exports = { API_KEY, API_SECRET_KEY, CLOUD_NAME }
